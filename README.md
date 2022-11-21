@@ -4,6 +4,6 @@ As a chemical engineer turned software guy, I was enamored early with the Intern
 
 I mainly focus on all things JavaScript, Node.js, and other JS runtimes such as Deno. 
 
-Currently, I work at Trendyol, Turkey's leading e-commerce platform and a part of Alibaba Group. In my day-to-day job, I develop cross-platform mobile applications in React-Native, backends in Node.js, and client-facing web applications with React.
+Currently, I work at [Trendyol](https://github.com/trendyol), Turkey's leading e-commerce platform and a part of Alibaba Group. In my day-to-day job, I develop cross-platform mobile applications in React-Native, backends in Node.js, and client-facing web applications with React.
 
 My work on GitHub is mostly self-learning material. I hope there is something valuable to you there, too.
