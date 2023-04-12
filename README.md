@@ -6,6 +6,6 @@ At present, I'm part of the Trendyol team, Turkey's leading e-commerce platform 
 
 Here on GitHub, you'll find a collection of projects and self-learning materials that I've worked on over the years. I hope you find value in my work, and I encourage you to explore my repositories.
 
-When I'm not coding, I enjoy gaming, reading high-fantasy or sci-fi books and listening to various sub-genres of metal, which helps me maintain a healthy work-life balance.
+When I'm not coding, I enjoy gaming, reading high-fantasy & sci-fi books and listening to various sub-genres of metal, which helps me maintain a healthy work-life balance.
 
 Feel free to reach out if you have any questions or just want to chat about tech! Happy coding! 😄
