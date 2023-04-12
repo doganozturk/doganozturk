@@ -1,9 +1,11 @@
-Hi 👋 I'm Doğan, a software engineer based in Istanbul, Turkey.
+Hello there! 👋 I'm Doğan, a passionate software engineer based in Istanbul, Turkey.
 
-As a chemical engineer turned software guy, I was enamored early with the Internet and World Wide Web. Even though my professional experience started much later, my curiosity about the field, tools, and patterns is on fire!
+My journey began as a chemical engineer, but I quickly fell in love with the world of software development. My insatiable curiosity led me to explore various tools and patterns, ultimately specializing in JavaScript, Node.js, and other JS runtimes such as Deno.
 
-I mainly focus on all things JavaScript, Node.js, and other JS runtimes such as Deno. 
+At present, I'm part of the Trendyol team, Turkey's leading e-commerce platform and a member of the Alibaba Group. My day-to-day tasks involve developing cross-platform mobile applications using React-Native, crafting backend solutions with Node.js, and building client-facing web applications with React.
 
-Currently, I work at [Trendyol](https://github.com/trendyol), Turkey's leading e-commerce platform and a part of Alibaba Group. In my day-to-day job, I develop cross-platform mobile applications in React-Native, backends in Node.js, and client-facing web applications with React.
+Here on GitHub, you'll find a collection of projects and self-learning materials that I've worked on over the years. I hope you find value in my work, and I encourage you to explore my repositories.
 
-My work on GitHub is mostly self-learning material. I hope there is something valuable to you there, too.
+When I'm not coding, I enjoy gaming, reading high-fantasy or sci-fi books and listening to various sub-genres of metal, which helps me maintain a healthy work-life balance.
+
+Feel free to reach out if you have any questions or just want to chat about tech! Happy coding! 😄
