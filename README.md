@@ -1,11 +1,15 @@
-Hello there! 👋 I'm Doğan, a passionate software engineer based in Istanbul, Turkey.
+Hello, I'm Doğan, a software engineer based in Istanbul, Turkey.
 
-My journey began as a chemical engineer, but I quickly fell in love with the world of software development. My insatiable curiosity led me to explore various tools and patterns, ultimately specializing in JavaScript, Node.js, and other JS runtimes such as Deno.
+My professional journey is a diverse one, starting with a degree in chemical engineering and a few years in the field. However, my fascination with coding, which has deep roots, eventually became my primary focus. Through dedication, passion, and a touch of luck, I transitioned into the realm of professional software development.
 
-At present, I'm part of the Trendyol team, Turkey's leading e-commerce platform and a member of the Alibaba Group. My day-to-day tasks involve developing cross-platform mobile applications using React-Native, crafting backend solutions with Node.js, and building client-facing web applications with React.
+Throughout my career, I've worked with a range of languages, primarily focusing on JavaScript and Node.js. I've had the opportunity to employ various front-end frameworks, including Svelte, Qwik, Vue, with a particular emphasis on React and React-Native on mobile. On the back-end, I've utilized micro-frameworks like Express.js and Koa, as well as more comprehensive solutions such as Nest.js. Beyond these, I've dabbled in Go, Python, and Java. My core expertise lies in front-end and Backends for Frontends (BFF) development, where I favor TypeScript. Additionally, I maintain a platform-oriented perspective as necessary.
 
-Here on GitHub, you'll find a collection of projects and self-learning materials that I've worked on over the years. I hope you find value in my work, and I encourage you to explore my repositories.
+Currently, I'm part of the Trendyol team, Turkey's leading e-commerce platform. My role involves developing cross-platform mobile applications, backend solutions, and web applications for clients.
 
-When I'm not coding, I enjoy gaming, reading high-fantasy & sci-fi books and listening to various sub-genres of metal, which helps me maintain a healthy work-life balance.
+I have a keen interest in alternative JavaScript runtimes like Deno and Bun. My goal is to deepen my understanding of back-end development to gain a more comprehensive understanding of the full life-cycle of web and mobile applications.
 
-Feel free to reach out if you have any questions or just want to chat about tech! Happy coding! 😄
+As a self-motivated learner with a product mindset, I thrive in environments where I can take full ownership of my tasks. I appreciate minimal management and the efficiency of small, responsible teams making frequent, incremental developments.
+
+I firmly believe in the principles of CI/CD and prefer trunk-based development when possible. To me, automated testing is an indispensable part of the development process. I also have experience in monitoring production applications using tools like Prometheus, Grafana, the ELK stack, and NewRelic.
+
+On my GitHub profile, you'll find a collection of self-learning materials and projects. Feel free to explore, and don't hesitate to reach out if you have any questions or would like to discuss tech.
